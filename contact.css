@@ -1,0 +1,28 @@
+body{
+  background: black;
+  color:white;
+}
+img {
+  width: 45%;
+  margin: auto;
+  margin-top: -8px;
+  display: block;
+  -webkit-box-shadow: 0px -52px 77px 20px rgba(48,0,0,1);
+-moz-box-shadow: 0px -52px 77px 20px rgba(48,0,0,1);
+box-shadow: 0px -52px 77px 20px rgba(48,0,0,1);
+}
+.contact{
+  margin-top: 1px;
+  font-size: 1.5em;
+  line-height: 1.4em;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+}
+a{
+  color:red;
+}
+h1{
+  margin-top: 35px;
+  text-align: left;
+  font-family: 'Julius Sans One', sans-serif;
+}
